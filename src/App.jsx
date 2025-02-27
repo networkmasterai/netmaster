@@ -10,7 +10,7 @@ import InsightsReports from './components/InsightsReports';
 
 function App() {
   return (
-    <Router basename="/<repo-name>">
+    <Router basename="/netmaster">
       <div className="bg-dark-blue text-white font-montserrat">
         {/* Navigation Bar */}
         <nav className="sticky top-0 z-50 bg-dark-blue p-4">
